@@ -139,7 +139,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="790" as="sourcePoint" />
             <mxPoint x="280" y="830" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="280" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
