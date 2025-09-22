@@ -122,13 +122,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-42">
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-42" target="8Fw5thOKQFKl96TCLOBC-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399.9999999999998" y="899.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-42" value="Re-weighted Training Loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-57" value="Loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
