@@ -154,6 +154,12 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-85" value="S&lt;div&gt;T&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="35" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="770" as="sourcePoint" />
+            <mxPoint x="530" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
