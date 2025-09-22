@@ -76,7 +76,7 @@
           <mxGeometry x="324" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="Validation Data&lt;div&gt;(Safe)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-12" target="8Fw5thOKQFKl96TCLOBC-39">
           <mxGeometry relative="1" as="geometry" />
