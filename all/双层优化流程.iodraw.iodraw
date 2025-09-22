@@ -105,6 +105,13 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-18" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="880" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-20" target="8Fw5thOKQFKl96TCLOBC-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-20" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="880" width="20" height="20" as="geometry" />
         </mxCell>
