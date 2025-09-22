@@ -75,10 +75,8 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="Safe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="450" height="200" as="geometry">
-            <mxRectangle x="340" y="670" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
