@@ -70,10 +70,10 @@
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-4" value="Safe Data+Unsafe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="Safe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-10" value="Inner Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="120" height="30" as="geometry" />
