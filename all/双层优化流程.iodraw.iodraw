@@ -75,7 +75,7 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-4" value="Unsafe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="80" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
           <mxGeometry x="380" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
