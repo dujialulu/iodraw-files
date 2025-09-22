@@ -91,7 +91,12 @@
           <mxGeometry x="520" y="730" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-14" target="8Fw5thOKQFKl96TCLOBC-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="870" />
+              <mxPoint x="230" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-14" value="loss" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="742.5" width="40" height="55" as="geometry" />
