@@ -90,19 +90,11 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="730" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-14" target="8Fw5thOKQFKl96TCLOBC-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="870" />
-              <mxPoint x="330" y="870" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-14" value="loss" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="742.5" width="40" height="55" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="742.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="200" y="750" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
