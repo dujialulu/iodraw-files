@@ -84,15 +84,6 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-13" value="Inner Loop" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="670" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Fw5thOKQFKl96TCLOBC-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="669.9655172413793" y="797.5" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="670" y="870" />
-              <mxPoint x="70" y="870" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="60" height="60" as="geometry" />
         </mxCell>
