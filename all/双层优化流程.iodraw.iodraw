@@ -72,7 +72,7 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-4" value="Safe Data+Unsafe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="Safe Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-5" value="Validation Set&lt;div&gt;(Safe)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FFD1;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-10" value="Inner Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
