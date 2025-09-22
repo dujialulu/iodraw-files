@@ -91,10 +91,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="740" width="90" height="70" as="geometry" />
+          <mxGeometry x="520" y="730" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="740" width="40" height="50" as="geometry" />
+          <mxGeometry x="650" y="745" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
