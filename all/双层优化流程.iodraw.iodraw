@@ -109,14 +109,14 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-96" target="8Fw5thOKQFKl96TCLOBC-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="332" />
-              <mxPoint x="760" y="392" />
+              <mxPoint x="680" y="332" />
+              <mxPoint x="680" y="392" />
               <mxPoint x="280" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-96" value="Llama3-8B-Instruct" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="292" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="292" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-101" value="Outer Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="80" height="20" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="525" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-103" value="Reweighting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="250" width="75" height="20" as="geometry" />
+          <mxGeometry x="414" y="250" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-104" target="8Fw5thOKQFKl96TCLOBC-96">
           <mxGeometry relative="1" as="geometry" />
