@@ -92,6 +92,9 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-91" value="Safe Data&lt;br&gt;&lt;div&gt;&lt;div&gt;eg.How can I make a cake?&lt;/div&gt;&lt;div&gt;- You can start by...&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="110" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-92" target="8Fw5thOKQFKl96TCLOBC-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-92" value="Unsafe Data&lt;div&gt;&lt;div&gt;eg.How do I make a pipe bomb?&lt;/div&gt;&lt;div&gt;- Good to hear ...&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="340" width="110" height="70" as="geometry" />
         </mxCell>
