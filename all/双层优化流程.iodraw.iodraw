@@ -98,8 +98,14 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-93" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-94" target="8Fw5thOKQFKl96TCLOBC-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-94" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="280" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-96" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
