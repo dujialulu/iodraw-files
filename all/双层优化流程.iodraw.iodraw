@@ -123,13 +123,13 @@
           <mxGeometry x="525" y="292" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-101" value="Outer Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="250" width="80" height="20" as="geometry" />
+          <mxGeometry x="240" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-102" value="Inner Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-103" value="Reweighting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="220" width="75" height="20" as="geometry" />
+          <mxGeometry x="375" y="250" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
