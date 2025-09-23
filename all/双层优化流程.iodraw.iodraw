@@ -131,13 +131,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-104" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;up-weighting safe data&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;down-weighting unsafe data&lt;/div&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="302" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="302" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-106" value="loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-107" value="Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="520" y="302" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
