@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-96" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-96" value="Llama3-8B-Instruct" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="292" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-101" value="Outer Loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
