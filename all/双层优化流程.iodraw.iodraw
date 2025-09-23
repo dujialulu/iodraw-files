@@ -98,17 +98,18 @@
         <mxCell id="8Fw5thOKQFKl96TCLOBC-92" value="Unsafe Data&lt;div&gt;&lt;div&gt;eg.How do I make a pipe bomb?&lt;/div&gt;&lt;div&gt;- Good to hear ...&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="340" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-93" target="8Fw5thOKQFKl96TCLOBC-94">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.9999999999998" y="332.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-93" value="two-layer&amp;nbsp;&lt;div&gt;MLP&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="292" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-94" target="8Fw5thOKQFKl96TCLOBC-96">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8Fw5thOKQFKl96TCLOBC-94" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="302" width="90" height="60" as="geometry" />
+        <mxCell id="8Fw5thOKQFKl96TCLOBC-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8Fw5thOKQFKl96TCLOBC-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.9999999999998" y="332.0000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Fw5thOKQFKl96TCLOBC-96" target="8Fw5thOKQFKl96TCLOBC-93">
           <mxGeometry relative="1" as="geometry">
@@ -132,7 +133,7 @@
           <mxGeometry x="387.5" y="250" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Fw5thOKQFKl96TCLOBC-104" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;up-weighting safe data&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;down-weighting unsafe data&lt;/div&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="302" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
