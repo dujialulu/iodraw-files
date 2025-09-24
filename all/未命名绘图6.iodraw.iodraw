@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c0P5podajnpcY00Z0-E0-23" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Safe Data&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;eg.How can I make a cake?&lt;/div&gt;&lt;div&gt;- You can start by...&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontFamily=Times New Roman;fillColor=#DCF0DB;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c0P5podajnpcY00Z0-E0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeWidth=1;dashed=1;" parent="1" source="c0P5podajnpcY00Z0-E0-25" target="c0P5podajnpcY00Z0-E0-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
