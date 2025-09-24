@@ -186,7 +186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBET9z_pzAuTW3bigHU5-1" value="Validation Data(Safe)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFE6CC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="423" y="195" width="89" height="44" as="geometry" />
+          <mxGeometry x="407" y="195" width="102" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
