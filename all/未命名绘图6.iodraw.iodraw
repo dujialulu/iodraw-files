@@ -188,12 +188,6 @@
         <mxCell id="LBET9z_pzAuTW3bigHU5-1" value="Validation Data(Safe)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="174" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LBET9z_pzAuTW3bigHU5-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349" y="341" as="sourcePoint" />
-            <mxPoint x="399" y="291" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
