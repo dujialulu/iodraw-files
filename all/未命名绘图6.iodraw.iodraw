@@ -185,7 +185,7 @@
         <mxCell id="c0P5podajnpcY00Z0-E0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c0P5podajnpcY00Z0-E0-1" target="c0P5podajnpcY00Z0-E0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBET9z_pzAuTW3bigHU5-1" value="Validation Data(Safe)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#F0D6E6;" vertex="1" parent="1">
+        <mxCell id="LBET9z_pzAuTW3bigHU5-1" value="Validation Data(Safe)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#B5A8CA;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="423" y="205" width="89" height="34" as="geometry" />
         </mxCell>
       </root>
