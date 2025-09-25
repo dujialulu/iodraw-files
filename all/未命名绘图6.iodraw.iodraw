@@ -180,7 +180,7 @@
           <mxGeometry x="270" y="95" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c0P5podajnpcY00Z0-E0-50" value="&lt;span style=&quot;background-color: initial;&quot;&gt;MLP(&lt;/span&gt;Two-layer&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="161" y="40" width="125" height="17" as="geometry" />
+          <mxGeometry x="162" y="40" width="125" height="17" as="geometry" />
         </mxCell>
         <mxCell id="c0P5podajnpcY00Z0-E0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c0P5podajnpcY00Z0-E0-1" target="c0P5podajnpcY00Z0-E0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -193,6 +193,9 @@
             <mxPoint x="467.21000000000004" y="243" as="sourcePoint" />
             <mxPoint x="467.21000000000004" y="278" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LBET9z_pzAuTW3bigHU5-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="121" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
