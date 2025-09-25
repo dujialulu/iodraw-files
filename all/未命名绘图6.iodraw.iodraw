@@ -194,8 +194,8 @@
             <mxPoint x="467.21000000000004" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBET9z_pzAuTW3bigHU5-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="90" width="20" height="20" as="geometry" />
+        <mxCell id="LBET9z_pzAuTW3bigHU5-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="146" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
