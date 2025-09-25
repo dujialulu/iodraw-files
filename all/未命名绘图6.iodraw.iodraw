@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LBET9z_pzAuTW3bigHU5-10" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="123" width="20" height="20" as="geometry" />
+          <mxGeometry x="132" y="115" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
