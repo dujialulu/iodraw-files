@@ -194,8 +194,8 @@
             <mxPoint x="467.21000000000004" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBET9z_pzAuTW3bigHU5-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;.&lt;/font&gt;&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;.&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="122" y="172" width="60" height="62" as="geometry" />
+        <mxCell id="LBET9z_pzAuTW3bigHU5-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="187" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
